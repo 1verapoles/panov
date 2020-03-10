@@ -1,0 +1,27 @@
+{
+  "name": "@AlexandreBulete/WS-LiSli",
+  "description": "A jQuery Plugin for display a Lightbox Slider in your projects. Can be used on a list with image.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/AlexandreBulete/WS-LiSli",
+  "main": "./dist/WS-LiSli.js",
+  "author": "Alexandre Buleté <bulete.alexandre@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexandreBulete/WS-LiSli.git"
+  },
+  "peerDependencies": {
+    "jquery": ">=1.9.0"
+  },
+  "keywords": [
+    "walkerspider", "WS", "walker", "spider", 
+    "LiSli", "lightbox", "gallery", "portfolio", "jQuery", "plugin", "slideshow", "slider", "slide"],
+  "bugs": {
+    "url": "https://github.com/AlexandreBulete/WS-LiSli/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/AlexandreBulete/WS-LiSli/blob/master/LICENSE"
+    }
+  ]
+}
